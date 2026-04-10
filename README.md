@@ -2,7 +2,6 @@
 
 [![Paper](https://img.shields.io/badge/Paper-Pattern%20Recognition%20Letters-blue)](https://www.sciencedirect.com/journal/pattern-recognition-letters)
 [![Models](https://img.shields.io/badge/Models-ModelScope-green)](https://modelscope.cn/models/ccArtermices)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 This repository contains the official implementation of **Z-LAN**, a parameter-efficient fine-tuning framework for multilingual text rendering in diffusion models using Low-Rank Adaptation (LoRA).
 
@@ -200,7 +199,7 @@ If you find this work useful, please cite:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
